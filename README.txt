@@ -1,5 +1,5 @@
 === Delete Comments ===
-Contributors: gaurav.mittal
+Contributors: gaurav.mittal,work.sugandha
 Donate link: http://gauravmittal.in/donate
 Tags: admin, comments, delete, delete comments, mass delete, mass delete comments, pending, plugin, spam
 Requires at least: 3.0.1
