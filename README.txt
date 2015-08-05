@@ -18,6 +18,9 @@ If you don't spammy comments at your site then this plugin is best for you. Well
 
 If you come across any bugs or have suggestions related the plugin, then please use the plugin support forum.Our team will help you in the best way and resolve the issue.
 
+**Main Features**
+* Delete All Comments, *Delete Comments By Category, *Delete Comments By User
+
 **Coming soon**
 * Filter spam comments *
 
